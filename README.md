@@ -1,11 +1,13 @@
 # Election_Analysis
 
-## Project Overview
+## Overview of Election Audit
 
 ## Resources
+Data source: election_results.csv
+Software: Python 3.7.6, Visual Studio Code 1.47.1
 
-## Summary
+## Election-Audit Results
 
-## Challenge Overview
+## Election-Audit Summary
 
-## Challenge Summary
+
