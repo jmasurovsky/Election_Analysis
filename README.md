@@ -44,26 +44,27 @@ The analysis of the election show that for this congressional distrcit:
 
 * The candidates were:
 
-  * 
+  * Charles Casper Stockham
  
-  * 
+  * Diana DeGette
  
-  * 
+  * Raymon Anthony Doane
 
 * The candidate results were:
 
-  * 
+  * Charles Casper Stockham received 23% of the vote and 85,213 number of votes.
  
-  * 
+  * Diana DeGette received 73.8% of the vote and 272,892 number of votes.
  
-  * 
+  * Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
  
 * The winner of the election was:
 
-  * 
+  * Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
+  
+
 
 ## Election-Audit Summary
 
-- Senatorial districts
+The Python script PyPoll_Challenge.py can be used to automate an election audit to show voting results by candidate and county. The script could be modified to be used for Senate elections by extracting voting count by senatorial districts, and used for local election voting data to determine neighborhood voting counts. For example, to determine neighborhood count for a local election audit, the county list and dictionary would have to be modified to capture neighborhoods. Similar steps that were made to capture county data are similar to capture neighborhood data when making for loops and conditionals.
 
-- Local elections
