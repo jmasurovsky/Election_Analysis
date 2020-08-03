@@ -26,11 +26,11 @@ The analysis of the election show that for this congressional distrcit:
 
 * The counties were:
 
-  ** Jefferson
+  * * Jefferson
   
-  ** Denver
+  * * Denver
   
-  ** Araphoe
+  * * Araphoe
 
 
 
