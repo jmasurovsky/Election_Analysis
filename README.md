@@ -11,7 +11,9 @@ The purpose of this project is to assist the Colorado Board of Elections in ensu
 - The county with the highest turnout
 
 ## Resources
+
 Data source: election_results.csv
+
 Software: Python 3.7.6, Visual Studio Code 1.47.1
 
 ## Election-Audit Results
