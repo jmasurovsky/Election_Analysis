@@ -44,23 +44,23 @@ The analysis of the election show that for this congressional distrcit:
 
 * The candidates were:
 
- * 
+  * 
  
- * 
+  * 
  
- * 
+  * 
 
 * The candidate results were:
 
- * 
+  * 
  
- * 
+  * 
  
- * 
+  * 
  
 * The winner of the election was:
 
- * 
+  * 
 
 ## Election-Audit Summary
 
